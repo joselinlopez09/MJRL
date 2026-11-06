@@ -15,7 +15,7 @@ header {
 
 /* MENÚ */
 nav {
-    background-color: #c184aa;
+    background-color: #e3f886;
     padding: 10px;
 }
 nav ul {
@@ -35,12 +35,12 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffcccc;
+    color: #ef6ccee9;
 }
 
 /* CONTENIDO PRINCIPAL */
 .bienvenida {
-    background-color: white;
+    background-color: cyan;
     text-align: center;
     padding: 50px 20px;
     margin: 30px;
